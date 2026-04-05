@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Exclude GitHub documentation and internal folders
+Disallow: /docs/
+Disallow: /CNAME
+Disallow: /README.md
+
+# Link to your XML sitemap
+Sitemap: https://apptech.work.gd/AppTech/sitemap.xml
