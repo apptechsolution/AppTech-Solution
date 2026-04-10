@@ -7,4 +7,4 @@ Disallow: /CNAME
 Disallow: /README.md
 
 # Link to your XML sitemap
-Sitemap: https://apptech.work.gd/AppTech/sitemap.xml
+Sitemap: https://www.apptech.work.gd/sitemap.xml
